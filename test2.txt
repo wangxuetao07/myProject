@@ -15,3 +15,5 @@ git checkout -b dev 建立一个新的本地分支dev
 git merge origin/dev 将分支dev与当前分支进行合并
 git checkout dev 切换到本地dev分支
 git remote show 查看远程库
+
+git@github.com:wangxuetao07/myProject.git
